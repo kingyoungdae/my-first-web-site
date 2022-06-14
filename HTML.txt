@@ -1,0 +1,60 @@
+TAG
+(열리는-닫히는 태그) <></>
+
+<strong></strong> -글씨 진하게
+<u></u> - 밑줄
+
+<h1></h1>......<h6></h6>  -googling (HTML h1 tag) -숫자가 커질수록 글자가 작아진다.  HTML headings(제목)
+
+<통계를 통해서 중요한 태그 확인하기>
+
+추천태크(줄바꿈) <br> - html new line tag
+추천태그(단락) - <p></p> - html paragraph tag
+
+
+
+일반인 작성코드 <span style="font-size:24px">coding</span>
+전문가 작성코드 <h3>coding</h3>
+
+<속성> Attribute
+
+이미지 넣기 - <img src=""> - unsplash.com (고퀄리 저작권 구애 받지 않는 사이트)
+<img src="" width="사이즈(%도가능)">
+
+
+<parent></parent> - 부모태그
+
+<parent>
+	<child></child> - 자식태그
+</parent>
+
+목차(목록)(list)태그 - <li></li> 의 부모태그 <ul></ul> : 부모태그는 자식태그를 반드시 가지고 있다. (점 태그)(Unordered List)
+			               <ol></ol> : 목차에 숫자를 생성하는 태그 (Ordered List)
+
+★<제목(파일명) 깔끔하게 변경하는 법>★
+<title></title> - 웹표지(본문의 제목)
+<meta charset="utf-8"> - 한글 깨질때 - UTF-8 웹페이지로 열어야 된다.(저장되어 있다.)
+
+본문은 <body></body> 묶기로 약속
+본문을 설명하는 것은 <head></head>로 묶기로 약속
+최고 고위층 태그 <html></html>
+관용적으로 이 문서는 "HTML" 이다. - <!doctype html>
+
+★★태그의 제왕★★ (링크 만들기!!)
+
+HyperText!!!! = anchor (닻) = "정보의 바다에 정박하다"
+<a></a> -링크 태그명
+<a href="link"> 하이퍼텍스트레퍼런스 (링크주소넣는 법)
+클릭했을때 새 탭을 하고싶을 때 - target="_blank"  
+링크 클릭전 무엇인지 알려주고 싶을때 (튤팁) - title="html5 speicification"
+공식사용 설명서 link달기 - html specification
+
+
+
+★★웹사이트 만들기★★
+WEB -> index.html
+HTML -> 1.html
+CSS -> 2.html
+JavaScript -> 3.html
+
+
